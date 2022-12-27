@@ -12,3 +12,6 @@ For this project i am using Pin #4 (D4/GPIO4)
 <p>
 <img alt= "DHT22-PinOut" src = "https://esp32io.com/images/tutorial/esp32-dht22-temperature-humudity-module-wiring-diagram.jpg" /> 
 </p>
+<p>
+<img alt= "Application" src = "Application.jpg" /> 
+</p>

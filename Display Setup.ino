@@ -36,12 +36,12 @@ void loop(){
   display.clearDisplay();
   display.setCursor(0,20);
 
-  display.print(F("Humidade: "));
+  display.print(F("Humidity: "));
   display.print(hu);
-  display.print("\nTemperatura: ");
+  display.print("\nTemperature: ");
   display.print(temp);
   display.print("°C ");
-  delay(500);
+  delay(200);
   display.display();
 
 }

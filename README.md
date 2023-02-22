@@ -21,3 +21,7 @@ For this project i am using Pin #4 (D4/GPIO4)
 <p>
 <img alt= "WebServer Implementation" src = "img/WebServerExample.jfif" /> 
 </p>
+For the next part, you will need a Relay Module, the manufacturer does not matter as long as it has 3 pin outputs.
+I found a simple pinout for reference, so feel free to follow the print bellow.
+<p>
+<img alt = "SingleRelayPinOut" src = img/SingleRelayPinOut.png />

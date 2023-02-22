@@ -23,5 +23,6 @@ For this project i am using Pin #4 (D4/GPIO4)
 </p>
 For the next part, you will need a Relay Module, the manufacturer does not matter as long as it has 3 pin outputs.
 I found a simple pinout for reference, so feel free to follow the print bellow.
+NOTE: Its not recommended but you should be able to use the "VIN" Pin in the Esp32 board to get 5V power out of it.
 <p>
 <img alt = "SingleRelayPinOut" src = img/SingleRelayPinOut.png />

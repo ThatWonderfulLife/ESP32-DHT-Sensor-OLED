@@ -31,7 +31,9 @@ NOTE: Its not recommended but you should be able to use the "VIN" Pin in the Esp
 <p>
 <br>
 <img alt = "SingleRelayPinOut" src = img/SingleRelayPinOut.png />
-# Known Issues
+
+# Known Issues  
+  
 The DHT Sensor can fail reading higher temperatures (Over 50 degrees Celcius).
 <br>
 The Relay Button does not appear on the webpage as shown above.
